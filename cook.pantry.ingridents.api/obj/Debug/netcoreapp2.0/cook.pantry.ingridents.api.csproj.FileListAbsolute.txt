@@ -9,3 +9,14 @@ C:\dev\core\cook.pantry.ingridents.api\obj\Debug\netcoreapp2.0\cook.pantry.ingri
 C:\dev\core\cook.pantry.ingridents.api\obj\Debug\netcoreapp2.0\cook.pantry.ingridents.api.AssemblyInfo.cs
 C:\dev\core\cook.pantry.ingridents.api\obj\Debug\netcoreapp2.0\cook.pantry.ingridents.api.dll
 C:\dev\core\cook.pantry.ingridents.api\obj\Debug\netcoreapp2.0\cook.pantry.ingridents.api.pdb
+D:\dev\coreplay\cook.pantry.ingridents.api\bin\Debug\netcoreapp2.0\cook.pantry.ingridents.api.deps.json
+D:\dev\coreplay\cook.pantry.ingridents.api\bin\Debug\netcoreapp2.0\cook.pantry.ingridents.api.runtimeconfig.json
+D:\dev\coreplay\cook.pantry.ingridents.api\bin\Debug\netcoreapp2.0\cook.pantry.ingridents.api.runtimeconfig.dev.json
+D:\dev\coreplay\cook.pantry.ingridents.api\bin\Debug\netcoreapp2.0\cook.pantry.ingridents.api.dll
+D:\dev\coreplay\cook.pantry.ingridents.api\bin\Debug\netcoreapp2.0\cook.pantry.ingridents.api.pdb
+D:\dev\coreplay\cook.pantry.ingridents.api\obj\Debug\netcoreapp2.0\cook.pantry.ingridents.api.csprojAssemblyReference.cache
+D:\dev\coreplay\cook.pantry.ingridents.api\obj\Debug\netcoreapp2.0\cook.pantry.ingridents.api.csproj.CoreCompileInputs.cache
+D:\dev\coreplay\cook.pantry.ingridents.api\obj\Debug\netcoreapp2.0\cook.pantry.ingridents.api.AssemblyInfoInputs.cache
+D:\dev\coreplay\cook.pantry.ingridents.api\obj\Debug\netcoreapp2.0\cook.pantry.ingridents.api.AssemblyInfo.cs
+D:\dev\coreplay\cook.pantry.ingridents.api\obj\Debug\netcoreapp2.0\cook.pantry.ingridents.api.dll
+D:\dev\coreplay\cook.pantry.ingridents.api\obj\Debug\netcoreapp2.0\cook.pantry.ingridents.api.pdb

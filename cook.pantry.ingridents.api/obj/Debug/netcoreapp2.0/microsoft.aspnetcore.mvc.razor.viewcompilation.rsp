@@ -1,0 +1,5 @@
+D:\dev\coreplay\cook.pantry.ingridents.api
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=cook.pantry.ingridents.api
+--content-root=D:\dev\coreplay\cook.pantry.ingridents.api
+--file=
